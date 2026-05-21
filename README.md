@@ -48,12 +48,14 @@ Este app foi desenvolvido para demonstrar, de forma prática, a aplicação de I
 
 Escolha do APK (qual baixar):
 
+- `app-release.apk` (universal): funciona em qualquer arquitetura, mas o arquivo é maior.
 - `app-arm64-v8a-release.apk` (recomendado): maioria dos celulares Android atuais.
 - `app-armeabi-v7a-release.apk`: aparelhos Android mais antigos (32 bits).
 - `app-x86_64-release.apk`: emuladores Android no computador e poucos dispositivos específicos.
 
 Links diretos para os APKs deste repositório:
 
+- [Baixar APK universal (todas as arquiteturas)](APP/har_app/build/app/outputs/flutter-apk/app-release.apk)
 - [Baixar APK arm64-v8a (recomendado)](APP/har_app/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk)
 - [Baixar APK armeabi-v7a (Android antigo)](APP/har_app/build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk)
 - [Baixar APK x86_64 (emulador/desktop)](APP/har_app/build/app/outputs/flutter-apk/app-x86_64-release.apk)
