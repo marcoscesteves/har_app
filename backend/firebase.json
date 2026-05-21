@@ -1,0 +1,40 @@
+{
+  "hosting": {
+    "public": "static",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/v1/**",
+        "run": {
+          "serviceId": "har-backend",
+          "region": "southamerica-east1"
+        }
+      },
+      {
+        "source": "/health",
+        "run": {
+          "serviceId": "har-backend",
+          "region": "southamerica-east1"
+        }
+      },
+      {
+        "source": "/docs",
+        "run": {
+          "serviceId": "har-backend",
+          "region": "southamerica-east1"
+        }
+      },
+      {
+        "source": "/openapi.json",
+        "run": {
+          "serviceId": "har-backend",
+          "region": "southamerica-east1"
+        }
+      }
+    ]
+  }
+}

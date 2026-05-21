@@ -1,0 +1,5 @@
+firebase-debug.log
+firebase-debug.*.log
+*.local
+.venv
+__pycache__

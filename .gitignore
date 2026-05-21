@@ -1,0 +1,71 @@
+# =========================
+# Sistema / Editor
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+*~
+
+# VS Code (descomente se quiser ignorar settings locais)
+# .vscode/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+.venv-tf/
+.venv-tf212/
+.venv-tf213/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Flutter / Dart / Android / iOS
+# =========================
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/android/.gradle/
+**/android/local.properties
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+
+# =========================
+# Logs e temporarios
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Arquivos grandes/gerados opcionais
+# (descomente se decidir nao versionar)
+# =========================
+# checkpoint/
+# history.p
+# predictions.p
