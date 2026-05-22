@@ -55,10 +55,10 @@ Escolha do APK (qual baixar):
 
 Links diretos para os APKs deste repositório:
 
-- [Baixar APK universal (todas as arquiteturas)](APP/har_app/build/app/outputs/flutter-apk/app-release.apk)
-- [Baixar APK arm64-v8a (recomendado)](APP/har_app/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk)
-- [Baixar APK armeabi-v7a (Android antigo)](APP/har_app/build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk)
-- [Baixar APK x86_64 (emulador/desktop)](APP/har_app/build/app/outputs/flutter-apk/app-x86_64-release.apk)
+- [Baixar APK universal (todas as arquiteturas)](https://github.com/marcoscesteves/har_app/releases/download/apk-2026-05-21/app-release.apk)
+- [Baixar APK arm64-v8a (recomendado)](https://github.com/marcoscesteves/har_app/releases/download/apk-2026-05-21/app-arm64-v8a-release.apk)
+- [Baixar APK armeabi-v7a (Android antigo)](https://github.com/marcoscesteves/har_app/releases/download/apk-2026-05-21/app-armeabi-v7a-release.apk)
+- [Baixar APK x86_64 (emulador/desktop)](https://github.com/marcoscesteves/har_app/releases/download/apk-2026-05-21/app-x86_64-release.apk)
 
 
 
